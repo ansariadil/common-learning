@@ -9,18 +9,21 @@ which | whereis
 
 du | df
 
-1. command -
-Purpose - 
-Options:
+1. command - cd
+Purpose - change working directory
+Options: 
+- path
 -
--
-Examples:
--
--
+Examples: 
+- cd .. it will go to parent directory
+- cd . Current directory
+- cd ./../.. grand parent and so on
+- cd ~ it will go to home directory
+- cd - it will go to the previous directory
 -------------------------------------------------
 
-2. command -
-Purpose - 
+2. command - ls
+Purpose - list 
 Options:
 -
 -

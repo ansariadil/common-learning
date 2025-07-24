@@ -1,0 +1,28 @@
+Add purpose, description and options of below commands.
+
+## Text Processing
+grep [egrep | fgrep ] | sed | awk [gawk] | cut | ex | look
+paste | 
+tail |
+unix2dos |
+vi | ed | jed | joe
+
+sort | uniq | indent | tac
+tr |
+head | wc | 
+diff | comm | diffstat | patch | sdiff
+split | fmt | fold
+join | col | column  | colrm
+expr |
+
+
+
+1. command -
+Purpose - 
+Options:
+-
+-
+Examples:
+-
+-
+-------------------------------------------------

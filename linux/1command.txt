@@ -1,0 +1,30 @@
+Add purpose, description and options of below commands.
+
+## Basic Common
+cd | ls | tree | pwd | cp | mv | rm | 
+cat | less | more | touch | tee | 
+file | mktemp | mkdir | dir | dirname | rmmdir
+find | locate | stat |
+which | whereis
+
+du | df
+
+1. command -
+Purpose - 
+Options:
+-
+-
+Examples:
+-
+-
+-------------------------------------------------
+
+2. command -
+Purpose - 
+Options:
+-
+-
+Examples:
+-
+-
+-------------------------------------------------

@@ -1,0 +1,29 @@
+Add purpose, description and options of below commands.
+
+## System Monitoring
+top [htop | iotop ] | ps | pidof 
+uptime | watch [swatch ] | 
+date | time | cal
+lsof [lshw | lsusb | lsblk ] | vmstat [iostat | mpstat | sar | dstat ] |
+adduser | chage | chpasswd 
+login | logout | logname | rlogin | w | rwho
+rsh | 
+shutdown | halt | reboot | exit | suspend 
+
+
+
+free | uname | arch
+tload 
+logrotate 
+
+
+
+1. command -
+Purpose - 
+Options:
+-
+-
+Examples:
+-
+-
+-------------------------------------------------

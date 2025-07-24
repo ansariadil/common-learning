@@ -1,0 +1,9 @@
+{
+  "_id" : "588215e4379c652ef34d4377",
+  "_class" : "com.finicity.reports.rest.dto.report.InitialReport",
+  "consumerId" : "58821559d1824a2f950d3232",
+  "status" : 1,
+  "partnerId" : 97.0,
+  "customerType" : "testing",
+  "customerId" : 12345678.0
+}
